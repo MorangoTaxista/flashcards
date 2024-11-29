@@ -9,6 +9,7 @@ color:rgb(110, 142, 170);
 }
 
 .cartao{
+    margin: 1rem 1rem;
     background-color: white;
     height: 20rem;
     flex-grow: 1;
