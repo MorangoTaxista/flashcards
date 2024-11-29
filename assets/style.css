@@ -4,7 +4,8 @@ font-family:Parkinsans;
 color:aliceblue;
 }
 
-footer{
+.cartao{
+    background-color: white;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
@@ -14,6 +15,8 @@ footer{
     text-align: center;
     height: 100%;
 }
+
+footer{
     background-color: blueviolet;
     color: rgb(223, 235, 246);
     bottom: 0;
